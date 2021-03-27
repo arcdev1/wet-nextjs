@@ -27,7 +27,8 @@ export default function Home() {
     <Main>
       <PageTitle>WET NextJS (React) PoC</PageTitle>
       <p>
-        A proof of concept for integrate WET with NextJS, React, and TypeScript.
+        A proof of concept for integrating WET with NextJS, React, and
+        TypeScript.
       </p>
       <Panel titleText="Forms">
         <a
