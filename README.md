@@ -1,6 +1,6 @@
 # WET NextJS PoC
 
-A small experiment to show how one might go about integrating WET-BOEW with NextJS, React, Typescript, and Emotion.
+A small experiment to show how one might go about integrating [WET-BOEW](https://wet-boew.github.io/wet-boew/index.html) with NextJS, React, Typescript, and Emotion.
 
 [Visit the Demo Site](https://wet-nextjs.vercel.app)
 
